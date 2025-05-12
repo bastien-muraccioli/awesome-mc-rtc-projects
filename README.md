@@ -5,8 +5,8 @@
   <h1 align="center">Awesome mc_rtc Projects</h1>
   <p align="center">A curated list of awesome controllers, plugins, interfaces, and more for <a href="https://jrl-umi3218.github.io/mc_rtc/">mc_rtc</a> (Multi-Contact Robot Task Controller).</p>
   <p align="center">
-    <a href="https://github.com/bastien-muraccioli/awesome-mc-rtc/stargazers"><img src="https://img.shields.io/github/stars/bastien-muraccioli/awesome-mc-rtc?style=social" alt="GitHub stars" /></a>
-    <a href="https://github.com/bastien-muraccioli/awesome-mc-rtc/actions/workflows/gh-pages.yml"><img src="https://github.com/bastien-muraccioli/awesome-mc-rtc/actions/workflows/gh-pages.yml/badge.svg" alt="GitHub Pages" /></a>
+    <a href="https://github.com/bastien-muraccioli/awesome-mc-rtc-projects/stargazers"><img src="https://img.shields.io/github/stars/bastien-muraccioli/awesome-mc-rtc-projects?style=social" alt="GitHub stars" /></a>
+    <a href="https://github.com/bastien-muraccioli/awesome-mc-rtc-projects/actions/workflows/gh-pages.yml"><img src="https://github.com/bastien-muraccioli/awesome-mc-rtc-projects/actions/workflows/gh-pages.yml/badge.svg" alt="GitHub Pages" /></a>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
   </p>
 </p>
